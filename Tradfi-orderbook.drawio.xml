@@ -52,28 +52,10 @@
         <mxCell id="0lUVYmUOpKm-kNijlc-2-13" value="19 USDC Profit" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="310" y="300" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0lUVYmUOpKm-kNijlc-2-14" value="ERC 20 Reward Token" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="0lUVYmUOpKm-kNijlc-2-14" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;TradFi Company pockets money&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0lUVYmUOpKm-kNijlc-2-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="0lUVYmUOpKm-kNijlc-2-14" target="0lUVYmUOpKm-kNijlc-2-5" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="390" as="sourcePoint" />
-            <mxPoint x="450" y="340" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0lUVYmUOpKm-kNijlc-2-16" value="1 Reward Token for trading" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="420" y="350" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="0lUVYmUOpKm-kNijlc-2-17" value="1 Reward Token for trading" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="40" y="350" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="0lUVYmUOpKm-kNijlc-2-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="0lUVYmUOpKm-kNijlc-2-14" target="0lUVYmUOpKm-kNijlc-2-6" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="145" y="410" as="sourcePoint" />
-            <mxPoint x="195" y="360" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ayKfWVEvOs7JeBit4JAC-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Example of a &quot;unfair&quot; swap (exaggerated price difference for clarity)&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ayKfWVEvOs7JeBit4JAC-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Example of a &quot;unfair&quot; swap (exaggerated price difference for clarity)&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="144.5" y="54" width="271" height="53" as="geometry" />
         </mxCell>
       </root>
