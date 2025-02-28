@@ -73,8 +73,8 @@
             <mxPoint x="195" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ayKfWVEvOs7JeBit4JAC-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Example of a swap with a spread (exaggerated for clarity)&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="167" y="53" width="226" height="53" as="geometry" />
+        <mxCell id="ayKfWVEvOs7JeBit4JAC-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Example of a &quot;unfair&quot; swap (exaggerated price difference for clarity)&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="144.5" y="54" width="271" height="53" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
