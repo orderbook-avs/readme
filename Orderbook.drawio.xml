@@ -41,7 +41,7 @@
           <mxGeometry x="250" y="250" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0lUVYmUOpKm-kNijlc-2-11" value="ETH:USDC Pair" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="220" y="100" width="120" height="30" as="geometry" />
+          <mxGeometry x="220" y="112" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0lUVYmUOpKm-kNijlc-2-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0lUVYmUOpKm-kNijlc-2-4" target="0lUVYmUOpKm-kNijlc-2-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -72,6 +72,9 @@
             <mxPoint x="145" y="410" as="sourcePoint" />
             <mxPoint x="195" y="360" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ayKfWVEvOs7JeBit4JAC-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Example of a swap with a spread (exaggerated for clarity)&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="167" y="53" width="226" height="53" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
