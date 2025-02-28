@@ -22,10 +22,12 @@ The AI agent, using the ElizaOS framework and hosted on Autonome, queries the sm
 
 A Gaia node (run locally on our machine) is used to host the DeepSeekR1 model for the AI agent.
 
-//insert image
+![Full System Flow Chart](Full Flow Chart.drawio.png)
 
 ## Repositories
 
 [AI Agent with custom orderbook plugin](https://github.com/orderbook-avs/eliza-orderbook-plugin)
+
 [Tangle AVS System and Orderbook Smart Contract](https://github.com/orderbook-avs/orderbook_tangle)
+
 [Frontend Website](https://github.com/orderbook-avs/frontend)
