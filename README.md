@@ -31,3 +31,10 @@ A Gaia node (run locally on our machine) is used to host the DeepSeekR1 model fo
 [Tangle AVS System and Orderbook Smart Contract](https://github.com/orderbook-avs/orderbook_tangle)
 
 [Frontend Website](https://github.com/orderbook-avs/frontend)
+
+## For Gaia
+We followed the tutorial [here](https://docs.gaianet.ai/getting-started/quick-start/) to set up our own Gaia node. We used the DeepSeekR1 model, available for download [here](https://huggingface.co/datasets/gaianet/paris/resolve/main/paris_768_nomic-embed-text-v1.5-f16.snapshot)
+
+Our `rag_prompt` and `system_prompt` were set to `You are an AI agent. Follow all instructions given.` so as to not interfere with Eliza OS's instructions.
+
+Our Gaia node url: `https://0xa54bf247699c76f19698b10a3fe49e55997d9515.gaia.domains`
