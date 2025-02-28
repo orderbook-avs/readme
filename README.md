@@ -4,7 +4,7 @@ AI-Orderbook is a user-first orderbook matchmaking service that utilizes an AI a
 
 In TradFi, companies specializing in matchmaking services will typically pocket any profits made when someone initiates a limit order that is above asking price or below bidding price. See example below:
 
-//insert 
+![TradFi example of orderbook](Tradfi-orderbook.drawio.png)
 
 Our orderbook places all profits into a ERC20 "Reward" token, that gets distributed to users everytime they trade on our platform. 
 
