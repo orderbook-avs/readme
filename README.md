@@ -22,7 +22,7 @@ The AI agent, using the ElizaOS framework and hosted on Autonome, queries the sm
 
 A Gaia node (run locally on our machine) is used to host the DeepSeekR1 model for the AI agent.
 
-![Full System Flow Chart](Full Flow Chart.drawio.png)
+![Full System Flow Chart](Full_Flow_Chart.drawio.png)
 
 ## Repositories
 
