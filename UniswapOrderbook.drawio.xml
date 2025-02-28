@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
   <diagram name="Page-1" id="XJv8N29TMY9UUqAbhmNg">
-    <mxGraphModel dx="1265" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1265" dy="760" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -30,7 +29,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0lUVYmUOpKm-kNijlc-2-8" value="1 ETH" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="260" y="180" width="60" height="30" as="geometry" />
+          <mxGeometry x="250" y="180" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0lUVYmUOpKm-kNijlc-2-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="0lUVYmUOpKm-kNijlc-2-4" target="0lUVYmUOpKm-kNijlc-2-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -39,7 +38,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0lUVYmUOpKm-kNijlc-2-10" value="1 USDC" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="240" y="250" width="60" height="30" as="geometry" />
+          <mxGeometry x="250" y="250" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0lUVYmUOpKm-kNijlc-2-11" value="ETH:USDC Pair" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="220" y="100" width="120" height="30" as="geometry" />
@@ -73,9 +72,6 @@
             <mxPoint x="145" y="410" as="sourcePoint" />
             <mxPoint x="195" y="360" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="0lUVYmUOpKm-kNijlc-2-19" value="Uniswap Orderbook" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="30" y="30" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
