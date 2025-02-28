@@ -8,11 +8,11 @@ In TradFi, companies specializing in matchmaking services will typically pocket 
 
 Our orderbook places all profits into a ERC20 "Reward" token, that gets distributed to users everytime they trade on our platform. 
 
-//insert image
+![Our orderbook, which is much better](Orderbook.drawio.png)
 
 Besides distributing profits to users, we also provide an AI agent that actively works to make sure you make the best trade on our orderbook. The agent will query all of the most recent orders, and determine what price levels the user should trade at.
 
-## System overview
+## System Architecture Overview
 
 The user submits a trade order on the frontend NextJS web3 website () which stores the order in an on chain smart contract.
 
