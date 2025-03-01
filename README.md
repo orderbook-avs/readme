@@ -1,6 +1,6 @@
-# AI-Orderbook
+# EasyOrder
 
-AI-Orderbook is a user-first orderbook matchmaking service that utilizes an AI agent to help user make the most efficient trades. 
+EasyOrder is a user-first orderbook matchmaking service that utilizes an AI agent to help user make the most efficient trades. 
 
 In TradFi, companies specializing in matchmaking services will typically pocket any profits made when someone initiates a limit order that is above asking price or below bidding price. See example below:
 
